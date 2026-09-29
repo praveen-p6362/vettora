@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Python files
+venv/
+__pycache__/
+
+# Uploaded files
+uploads/
+
+# Logs
+*.log

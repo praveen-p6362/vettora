@@ -28,6 +28,10 @@ async function main() {
 
   const app = express();
 
+  // Trust Render's proxy so express-rate-limit
+  // can correctly read the client's IP address.
+  app.set('trust proxy', 1);
+
   app.use(
     cors({
       origin: env.CLIENT_ORIGIN,

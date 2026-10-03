@@ -1,4 +1,4 @@
-# Aptura AI — Smart Recruitment & Interview Analyzer
+#Vettora — AI — Smart Recruitment & Interview Analyzer
 
 A real, multi-user recruitment platform: candidates register, verify their real Gmail via a real OTP
 email, upload a real resume (PDF/DOCX), get an AI-based ATS score, apply to real HR-posted jobs with

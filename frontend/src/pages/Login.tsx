@@ -50,7 +50,7 @@ export function AuthShell({ title, children }: { title: string; children: React.
           <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-violet-600 flex items-center justify-center shadow-pop">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 2L14.5 9.5L22 12L14.5 14.5L12 22L9.5 14.5L2 12L9.5 9.5L12 2Z" fill="white" /></svg>
           </div>
-          <span className="font-display font-bold text-[20px]">Aptura AI</span>
+          <span className="font-display font-bold text-[20px]">Vettora</span>
         </div>
         <div className="card p-7">
           <h1 className="font-display font-bold text-[18px] mb-5">{title}</h1>
